@@ -1,1 +1,2 @@
-# This is a personal portfolio of programming projects
+# This is a personal portfolio of programming projects done in C++
+
