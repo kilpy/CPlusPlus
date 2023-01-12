@@ -1,0 +1,1 @@
+Script that uses RegEx to search for server start message followed by a corresponding shut down message. If there is a subsequent start up with no shutdown, report a failure. Upon each successful start and shutdown, report the server runtime 
